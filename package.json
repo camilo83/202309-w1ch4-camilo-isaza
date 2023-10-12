@@ -1,0 +1,20 @@
+{
+  "name": "semana1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "sass": "sass sass:css -w --no-source-map",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "prettier": {
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "sass": "^1.69.3"
+  }
+}
