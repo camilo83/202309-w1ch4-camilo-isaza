@@ -1,30 +1,11 @@
-# Week 1 - Challenge 2
+# Week 1 - Challenge 4
 
 ## HTML
 
-Este es un challenge para hacer por parejas. El objetivo es crear con HTML (y nada de CSS) una web con cuatro páginas:
-
-Home
-Quiénes somos
-Nuestros CV
-Contacto
-Todas las páginas deben tener la misma cabecera, con los siguientes elementos:
-
-Nombre de la web
-Menú de navegación con links para ir a las tres secciones
-Por lo que se refiere a las diferentes páginas:
-
-La home puede llevar el contenido que queráis.
-
-La sección Quiénes somos debe contener tres fichas, una para cada miembro, y en cada ficha debe aparecer
-
-una foto,
-el nombre y
-alguna información.
-La sección Nuestros CV debe contener vuestros dos CV.
-
-La sección Contacto debe llevar un formulario que pida
-
-Nombre
-Email (tiene que ser obligatorio)
-Comentarios
+Maqueta con HTML y SASS las capturas adjuntas (mobile y desktop), teniendo en cuenta las siguientes especificaciones:
+Para los diseños mobile y desktopse puede emplear RWD (media queries). Si no sabes como hacerlo, pueden ser dos páginas completamente independientes.
+Las tipografías usadas son la Nunito y la Nunito Extrabold.
+En la carpeta details puedes ver los distintos hover y también el menú desplegable.
+En la carpeta images tienes las imágenes necesarias.
+HTML semántico y validado con el validador
+En el challenge se ponen a prueba los conocimientos previo de CSS, que serán revisados con detalle en la siguiente sesión.

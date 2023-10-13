@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "sass": "sass sass:css -w --no-source-map",
+    "scss": "sass scss:css -w --no-source-map",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
